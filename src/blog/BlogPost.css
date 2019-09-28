@@ -1,0 +1,9 @@
+#footer{
+    display: block;
+	color: #FFF;
+    font-size: 0.75em;
+    bottom:0;
+    width: 100%;
+    height: 30px;
+    position: fixed;
+}
