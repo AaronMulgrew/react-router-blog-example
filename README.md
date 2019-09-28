@@ -6,8 +6,14 @@ This is based on the website at mulgrew.me
 
 ### How to run
 simply navigate to the directory in the command prompt and type:
+```
 npm install
+```
+```
 npm start
+```
 
 to build an optimised production build, type:
+```
 npm run build
+```
